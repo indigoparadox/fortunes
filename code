@@ -1,0 +1,23 @@
+int main( void ){
+   return( main() );
+}
+%
+dd if=/dev/zero of=/dev/null
+%
+alias rm 'rm -rf \!*'
+
+alias hose kill -9 '`ps -augxww | grep \!* | awk \'{print $2}\'`'
+
+alias kill 'kill -9 \!* ; kill -9 \!* ; kill -9 \!*'
+
+alias renice 'echo Renice\?  You must mean kill -9.; kill -9 \!*'
+%
+static assert (is(typeof(new short)));
+
+static this() { if (new short is new short)
+
+   volatile if (true)
+
+   try { debug null; do {}
+
+while (false); } catch { return new ushort;}}
