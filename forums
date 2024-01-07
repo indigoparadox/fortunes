@@ -1518,3 +1518,23 @@ Your
 Stripes are too tight and they don't render right
 
 That's a moiré
+%
+Things I've learned from working ops:
+
+- If you say 12:00, 12:00AM, or 12:00PM, people will ask if you mean noon or
+  midnight.
+
+- If you say midnight, people will ask what day.
+
+- If you use 24 hour time, Americans will complain.
+
+- If you use 12 hour time, everyone else will eyeroll about the Americans but
+  not really complain.
+
+- If you use 23:59, 0:01, 11:59PM, or 12:01AM to disambiguate date for a
+  midnight maintenance, people will complain about your confusing times.
+
+- If you use 24:01, your American boss will give you a drug test.
+
+- In all cases when you take the service down someone will claim to be
+  surprised by your ambiguous announcement and demand an emergency reschedule.
